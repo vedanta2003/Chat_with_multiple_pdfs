@@ -4,3 +4,9 @@ langchain
 python-dotenv
 faiss-cpu
 huggingface_hub
+InstructorEmbedding
+sentence_transformers
+langchain-community
+chromadb
+google-generativeai
+langchain_google_genai
